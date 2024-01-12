@@ -4,8 +4,7 @@
 Proyecto para hacer con react una consulta con fetch para el curso de MIT
 
 ## How to Run: ##
-Descargar aplicación y correr con algun servidor puede ser http-serever
-Movi los archivos de compilado para que funcione desde github
+Descargar aplicación dar npm install y correr con npm start 
 
 ## Roadmap of future improvements: ##
 Muchas áreas de mejora inclyendo este roadmap.... mejorando en las siguientes versiones
